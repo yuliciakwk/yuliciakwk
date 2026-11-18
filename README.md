@@ -2,8 +2,6 @@
 
 I'm a first-year Business & Computer Science (BUCS) student at UBC.
 
-📫 [LinkedIn](https://linkedin.com/in/yulicia-kwok) · yuliciakwk@gmail.com · Vancouver, BC
-
 <!--
 **yuliciakwk/yuliciakwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
