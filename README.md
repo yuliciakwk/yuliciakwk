@@ -1,4 +1,4 @@
-## Hello👋 I'm Yuli!
+## Hello 👋, I'm Yuli
 
 I'm a first-year Business & Computer Science (BUCS) student at UBC.
 
