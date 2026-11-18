@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey, I'm Yuli! 👋
+
+I'm a first-year Business & Computer Science (BUCS) student at UBC.
 
 <!--
 **yuliciakwk/yuliciakwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
